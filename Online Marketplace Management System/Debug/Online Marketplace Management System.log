@@ -1,0 +1,45 @@
+﻿  Admin.cpp
+  Customer.cpp
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(186,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(195,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(212,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(226,22): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(286,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(274,9): warning C4101: 'index': unreferenced local variable
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(365,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(387,23): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(439,23): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(435,9): warning C4101: 'index': unreferenced local variable
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(509,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(530,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(567,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(571,21): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(586,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(595,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(609,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Customer.cpp(610,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(193,27): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(216,27): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(299,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(337,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(346,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(353,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\main.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+  Person.cpp
+  Product.cpp
+  Receipt.cpp
+  Seller.cpp
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Seller.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Seller.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Seller.cpp(245,21): warning C4018: '<': signed/unsigned mismatch
+  Validation.cpp
+  Generating Code...
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Validation.cpp(132): warning C4715: 'Validation::isFloat': not all control paths return a value
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Validation.cpp(108): warning C4715: 'Validation::isNumber': not all control paths return a value
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Validation.cpp(195): warning C4715: 'Validation::phoneValidation': not all control paths return a value
+D:\Important\Data Structure\Online-Marketplace-Management-System\Online Marketplace Management System\Validation.cpp(82): warning C4715: 'Validation::passwordValidation': not all control paths return a value
+  Online Marketplace Management System.vcxproj -> D:\Important\Data Structure\Online-Marketplace-Management-System\Debug\Online Marketplace Management System.exe
