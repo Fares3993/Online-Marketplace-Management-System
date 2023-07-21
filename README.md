@@ -18,10 +18,12 @@ The C++ application is an online marketplace management system that allows users
 <li>After confirming the cart, the customer can view the receipt with details of the purchased items and total cost.</li> 
 </ul>
 
-Sign in as Admin:
+## Sign in as Admin:
+<ul>
+  <li>The admin has the authority to approve or reject the products added by sellers before they become available for customers on the marketplace.</li>
+<li>The admin reviews the pending product requests from sellers and makes a decision to approve or disapprove them.</li>
+</ul>
 
-The admin has the authority to approve or reject the products added by sellers before they become available for customers on the marketplace.
-The admin reviews the pending product requests from sellers and makes a decision to approve or disapprove them.
 Additional Notes:
 
 During registration, the system enforces specific conditions for the email and password to be valid.
