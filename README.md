@@ -33,8 +33,8 @@ The C++ application is an online marketplace management system that allows users
 <li>The shopping cart functionality allows customers to add, remove, and confirm their purchases before checking out.</li>
 <li>The admin plays a crucial role in managing product approvals and ensuring the marketplace's quality and integrity.</li>
 </ul>
-
-Overall, the application provides a user-friendly online marketplace platform that facilitates product management for sellers, product browsing and purchasing for customers, and product approval for the admin to maintain a well-functioning and secure marketplace environment.
+<hr>
+<h4>Overall, the application provides a user-friendly online marketplace platform that facilitates product management for sellers, product browsing and purchasing for customers, and product approval for the admin to maintain a well-functioning and secure marketplace environment.</h4>
 
 
 ## Some Screenshots: 
