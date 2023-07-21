@@ -8,13 +8,16 @@ The C++ application is an online marketplace management system that allows users
 <li>The seller can browse their own products to view their inventory and details.</li>
 </ul>
 
-Sign in as Customer:
+## Sign in as Customer:
+<ul>
+  
+<li>The customer has access to different categories of products such as appliances, books, fashion, food & beverage, smartphones, laptops, and accessories.</li>
+<li>The customer can view products from a specific category or view all products together. Each product has essential details like name, ID, price, category, and quantity.</li>
+<li>The customer can search for products by their names.</li>
+<li>The customer can add products to their shopping cart, remove items from the cart, remove all products from the cart, or confirm the cart's content for purchase.</li>
+<li>After confirming the cart, the customer can view the receipt with details of the purchased items and total cost.</li> 
+</ul>
 
-The customer has access to different categories of products such as appliances, books, fashion, food & beverage, smartphones, laptops, and accessories.
-The customer can view products from a specific category or view all products together. Each product has essential details like name, ID, price, category, and quantity.
-The customer can search for products by their names.
-The customer can add products to their shopping cart, remove items from the cart, remove all products from the cart, or confirm the cart's content for purchase.
-After confirming the cart, the customer can view the receipt with details of the purchased items and total cost.
 Sign in as Admin:
 
 The admin has the authority to approve or reject the products added by sellers before they become available for customers on the marketplace.
