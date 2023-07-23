@@ -48,3 +48,11 @@ The C++ application is an online marketplace management system that allows users
   <img src = "https://github.com/Fares3993/Online-Marketplace-Management-System/assets/84674642/935f1ef8-8b65-46ab-a1b6-ec8b8890631d">
   <img src = "https://github.com/Fares3993/Online-Marketplace-Management-System/assets/84674642/eddb18ad-aa1c-4cb0-867d-cbc11c1be52a">
 </div>
+
+### Travel App has been created by a team of 6 students: 
+* Hadi Ahmed 
+* Hadi Atef Sayed
+* Hadi Ehab Ragaa
+* Haytham Mahmoud
+* Fares Ahmed
+* Eman Ragab
